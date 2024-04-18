@@ -1,0 +1,5 @@
+THRESHOLDS = {
+    'BTCUSDT': 0.001,
+    'ETHUSDT': 0.01
+}
+SLEEP_TIME = 1
