@@ -3,7 +3,7 @@ Delta-Hedger for Bybit Unified Account.
 ## Usage
 ```console
 export API_KEY='your api key'
-export API_SECRET='[your api secret]'
+export API_SECRET='your api secret'
 python3 bybit_unified/app.py
 ```
 
